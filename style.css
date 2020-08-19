@@ -1,0 +1,155 @@
+.container{
+    margin-bottom: 80px;
+	font-family: 'Poppins', sans-serif;
+    color: black;
+}
+
+.orange-bg{
+    background-color: #e6ffff;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+p{
+    font-size: 22px;
+    color: #ff6600;
+}
+
+.price{
+    color: #005ce6;
+}
+
+.buy-now-button{
+   
+    background-color: #ff3385;
+	color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 22px;
+    cursor: pointer;
+	
+}
+
+
+.buy-now-button:hover{
+
+        color: black; 
+		background-color: #0080ff;
+        
+}
+
+
+.cat1{
+    background-color:#00e600;
+}
+
+.cat2{
+    background-color: #ff6600;
+}
+
+.cat3{
+background-color: #33ad;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h6{
+    font-weight: bold;
+    font-size: 15px;   
+}
+
+.categories h1{
+    color: white;
+}
+
+.categories img{
+    width: 100px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey ;
+    border-radius: 10px;
+	font-size:16px;
+}
+.card-img-top{
+    
+    height: 320px;
+    background-color:rgba(251, 250, 250, 0.815);
+
+}
+
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+
+#pure-cotton{
+    font-size: 22px;
+    cursor: pointer;
+    
+}
+
+#chunri{
+    font-size: 22px;
+    cursor: pointer;
+   
+}
+
+#subscribe{
+
+    height: 300px;
+}
+
+#subscribe h6{
+    color:gray;
+}
+
+footer{
+    text-align: center;
+	padding-top:30px;
+}
+
+
+.body-style{
+        width: 95%;
+        margin: 0 auto;
+		font-size: 15px;
+}
+.bottom{
+	font-size: 12px;
+	
+}
+
+.conditions a{
+    padding-left: 20px;
+	
+}
+.conditions{
+    margin-top: 28px;
+    display: flex;
+    flex-wrap: wrap;
+	font-size: 15px;
+	padding-bottom:15px;
+	
+}
+.link{
+	height: 35px;
+	width: 35px;
+	border-radius: 7px;
+	margin-left: 15px;
+	
+}
+
+.list-unstyled{
+	font-size: 13px;
+}
+
+
+
