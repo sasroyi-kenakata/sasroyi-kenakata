@@ -13,6 +13,7 @@
 }
 .d-block{
 	padding: 30px;
+	width:400px;
 }
 p{
     font-size: 22px;
@@ -29,7 +30,7 @@ p{
     color: white;
     border: none;
     border-radius: 8px;
-    padding: 9px 30px;
+    padding: 9px 20px;
     cursor: pointer;
 	
 }
@@ -77,7 +78,7 @@ h6{
 
 .card{
     border: none;
-    box-shadow: 5px 5px 10px lightgrey ;
+    box-shadow: 5px 5px 10px lightgrey;
     border-radius: 10px;
 	font-size:16px;
 }
