@@ -9,7 +9,10 @@
     border-radius: 10px;
 }
 .carousel-item{
-    padding: 50px 40px;
+    padding: 20px 30px;
+}
+.d-block{
+	padding: 30px;
 }
 p{
     font-size: 22px;
